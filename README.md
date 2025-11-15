@@ -1,7 +1,7 @@
 # 🛍️ NxMart - Full Stack Ecommerce Application
 
-**🔗 Live Frontend:** https://frontend-nxt-mart-ctio.vercel.app  
-**🔗 Live Backend API:** https://nxtmartfb.onrender.com
+NxMart is a full-stack ecommerce web application where users can browse products, add them to cart, and checkout securely with authentication and protected routes.
+
 
 ## 🔗 Live Demo
 
@@ -11,7 +11,8 @@
 | 🔌 **Backend API (Render)** | [https://nxtmartfb.onrender.com](https://nxtmartfb.onrender.com)                       |
 
 
-NxMart is a full-stack ecommerce web application where users can browse products, add them to cart, and checkout securely with authentication and protected routes.
+## 🚀 Overview
+
 
 ---
 
